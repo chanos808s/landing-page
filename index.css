@@ -1,0 +1,182 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+body{
+    margin: 0;
+    padding: 0;
+    font-family: 'Roboto';
+}
+.list{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: #1f2937;
+    
+}
+li{
+    list-style-type: none;
+    border: 3px solid tan;
+    background-color: beige;
+}
+.head{
+    display: flex;
+    gap: 18px;
+    margin-right: 50px;
+}
+.Header{
+    font-weight: bold;
+    padding: 0 24px;
+    border: 2px solid tan;
+    margin-left: 8px;
+    background-color: beige;
+    font-size: 24px;
+    margin-left: 200px;
+}
+.Dodgers{
+    height: 300px;
+    width: auto;
+    margin: 50px;
+   
+}
+.cyberpunk{
+    height: 300px;
+    width: 300px;
+}
+h1{
+    font-size: 48px;
+    font-weight: bolder;
+    color: #f9faf8;
+}
+.Welcome{
+    background-color: #1f2937;
+    display: flex;
+}
+.Welcome-right{
+    display: flex;
+    flex-direction: column;
+    margin-left: 20px;
+}
+.Welcome-left{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-left: 200px;
+}
+.sign-up{
+    border-radius: 8px;
+    margin-right:425px ;
+    background-color: #3882f6;
+    
+}
+.dork{
+    width: 500px;
+}
+.pizza{
+    border: 3px solid #3882f6; 
+    height: 140px;
+    width: 140px;
+    border-radius: 8px;
+}
+.sketch-game{
+    border: 3px solid #3882f6 ;
+    height: 140px;
+    width: 140px;
+    border-radius: 8px;
+}
+.new-york{
+    border: 3px solid #3882f6 ;
+    height: 140px;
+    width: 140px;
+    border-radius: 8px;
+}
+.rock-image{
+    border: 3px solid #3882f6 ;
+    height: 140px;
+    width: 140px;
+    border-radius: 8px;
+}
+.image-row{
+    display: flex;
+    justify-content: center;
+}
+h2{
+    font-size: 36px;
+    font-weight: bolder;
+    color: #8da4c5;;
+    text-align: center;
+}
+.rock{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 300px;
+    text-align: center;
+    color: wheat;
+}
+.sketch-game{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    color: wheat;
+}
+.random{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 300px;
+    text-align: center;
+    color: wheat;
+}
+.food{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 300px;
+    text-align: center;
+    color: wheat;
+}
+.second-section{
+    display: flex;
+    flex-direction: column;
+    flex-direction: column;
+    background: #553838;
+}
+.quote{
+    display: flex;
+    flex-direction: column;
+    padding: 100px;
+    background-color: #5b749a;
+}
+.kobe{
+    text-align: right;
+    font-weight: bolder;
+}
+.sign-up-again{
+    display: flex;
+    background-color: #1f2937;
+    margin: 100px;
+    padding: 25px;
+    border-radius: 10px;
+    color: wheat;
+}
+.right{
+    margin-left: 450px;
+    margin-top: 40px;
+}
+.hello{
+    padding: 10px;
+    border-radius: 10px;
+}
+footer{
+    text-align: center;
+    padding: 40px;
+    background-color: #1f2937;
+}
+.sketch-etch{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    align-items: center;
+    color: wheat;
+    width: 300px;
+}
